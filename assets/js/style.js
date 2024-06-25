@@ -38,6 +38,7 @@
 						images: {
 							'images/bg04.png': 'center',
 							'images/bg05-min.png': 'center',
+							'images/bg06.png': 'center',
 						},
 
 					// Delay.
